@@ -50,3 +50,6 @@ results/paper/out/
 # Scratch / temp
 scratch/
 tmp/
+
+# Copyrighted reference material (local only, never commit)
+selected chapters from */
