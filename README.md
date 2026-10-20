@@ -242,7 +242,7 @@ request to `main` and enforces a minimum of 70% coverage on `pipeline/`.
   title   = {{JWST SED Anomaly Detection Pipeline}},
   year    = {2026},
   version = {0.1.0},
-  url     = {https://github.com/<your-handle>/jwst-sed-anomaly},
+  url     = {https://github.com/Menrae/unsupervised-anomaly-detection-pipeline},
   note    = {UW Astronomy, Summer 2026}
 }
 ```
